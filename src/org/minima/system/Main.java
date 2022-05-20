@@ -69,7 +69,7 @@ public class Main extends MessageProcessor {
 	MiniData mOldTip 							= MiniData.ZERO_TXPOWID;
 	
 	//Check every 180 seconds..
-	long CHECKER_TIMER							= 1000 * 180;
+	long CHECKER_TIMER							= 1000 * 190;
 	
 	/**
 	 * Notify Users..
